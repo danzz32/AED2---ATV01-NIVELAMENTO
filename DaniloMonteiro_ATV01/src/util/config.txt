@@ -3,13 +3,13 @@ Explicações sobre as estruturas e seus parâmetros:
 Estruturas
 As estruturas desenvolvidas foram Lista Encadeada Dupla, Pilha Dinâmica, Fila Dinâmica e Árvore Binária.
 
-	Lista Encadeada Dupla: esta estrutura onde cada elemento terá dois "apontadores" onde indicam o elemento posterior é 	o anterior.
+	Lista Encadeada Dupla: esta estrutura onde cada elemento terá dois "apontadores" onde indicam o elemento posterior é o anterior.
 
-	Pilha Dinâmica: a pilha é uma estrutura que atua sobre as condições de que tanto a inserção quanto remoção são 	feitas no  último elemento e este também é o único que se tem informação e por ser dinâmica temos em cada elemento 	um apontador indicando o próximo da estrutura.
+	Pilha Dinâmica: a pilha é uma estrutura que atua sobre as condições de que tanto a inserção quanto remoção são 	feitas no  último elemento e este também é o único que se tem informação e por ser dinâmica temos em cada elemento um apontador indicando o próximo da estrutura.
 
-	Fila Dinâmica: a fila já seria o oposto da pilha, onde o único elemento que se tem informação é o primeiro a 	inserção pode ser feita apenas no final da estrutura e a remoção só pode ser feita no início e sendo dinâmica cada 	elemento tem um apontador que indica o próximo elemento.
+	Fila Dinâmica: a fila já seria o oposto da pilha, onde o único elemento que se tem informação é o primeiro a inserção pode ser feita apenas no final da estrutura e a remoção só pode ser feita no início e sendo dinâmica cada elemento tem um apontador que indica o próximo elemento.
 
-	Árvore Binária: tratando da árvore tem-se uma raíz que pode ser o primeiro elemento a ser inserido e tambéms dois 	apontadores sendo eles para a esquerda e a direita. E cada novo nó feito é uma raíz que pode dar início a mais nós.
+	Árvore Binária: tratando da árvore tem-se uma raíz que pode ser o primeiro elemento a ser inserido e tambéms dois apontadores sendo eles para a esquerda e a direita. E cada novo nó feito é uma raíz que pode dar início a mais nós.
 	Para sua inserção as condições são: 
 	 1 - elementos menores que a raíz ficam a esquerda;
  	 2 - elementos maiores que a raíz ficam a direita.
