@@ -1,2 +1,3 @@
-lista;
-inserir;bola
+arvore;
+inserir;bola;
+imprimir;

@@ -25,3 +25,11 @@ Todas as estruturas densenvolvidas possuem os mesmos parâmetros em seus método
 	buscar (nome do objeto); // encontra e retorna um elemento
 	imprimir(); // imprime todos os elementos
 
+
+Execução do projeto
+O projeto será executado através do arquivo exec.txt que terá os comandos a serem executados.
+A primeira linha deverá ter no nome da estrutura que será instanciada (arvore,pilha,lista ou fila). 
+A partir da segunda linha terão os comandos juntamente do objeto sendo cada um separados por ";". Segue abaixo um exemplo:
+
+"lista;
+inserir;carro;"
